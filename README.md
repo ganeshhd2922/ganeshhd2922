@@ -24,8 +24,8 @@
 
 ## 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ganeshdhakarke)
-- ✉️ Email: ganeshdhakarke5@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ganeshdhakarke/)
+- ✉️ Email: ganeshdhakarke551@gmail.com
 
 ---
 
