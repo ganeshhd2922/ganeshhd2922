@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ganeshhd2922/ganeshhd2922/main/banner.png" alt="Ganesh Dhakarke Banner" />
+</p>
+
 # Hi, I'm Ganesh Dhakarke 👋  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ganeshhd2922&label=PROFILE+VIEWS)
