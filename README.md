@@ -1,4 +1,4 @@
-# Hi there, I am Ganesh Dhakarke 👋
+# Hi, I'm Ganesh Dhakarke 👋  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ganeshhd2922&label=PROFILE+VIEWS)
 
