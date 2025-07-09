@@ -1,4 +1,4 @@
-# Hi there, I'm Ganesh Dhakarke 👋
+# Hi there, I am Ganesh Dhakarke 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ganeshhd2922&label=PROFILE+VIEWS)
 
@@ -11,8 +11,7 @@
 - 🌱 I’m currently learning **System Design**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and DSA**
 - 🔭 I’m currently working on: **Real-time Projects**
-- 🧑‍💼 Interned at: **CodeDelhiites Tech** and **Rablo.in**
-- 📍 **Pune, Maharashtra, India**
+
 
 ---
 
@@ -25,9 +24,7 @@
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ganeshdhakarke/)
+- 💼 [GFG](https://www.geeksforgeeks.org/user/100dhakarkeganesh/)
 - ✉️ Email: ganeshdhakarke551@gmail.com
 
----
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ganeshhd2922&theme=radical)
-![Ganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganeshhd2922&show_icons=true&theme=radical)
