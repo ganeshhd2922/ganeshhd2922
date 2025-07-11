@@ -17,14 +17,8 @@
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and DSA**
 - 🔭 I’m currently working on: **Real-time Projects**
 
-
 ---
 
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshhd2922&layout=compact&theme=radical)
-
----
 
 ## 🔗 Connect with Me
 
