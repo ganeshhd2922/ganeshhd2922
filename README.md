@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ganeshhd2922/ganeshhd2922/main/Banner.png" alt="Ganesh Dhakarke Banner" />
-</p>
 
 
 # Hi, I'm Ganesh Dhakarke 👋  
